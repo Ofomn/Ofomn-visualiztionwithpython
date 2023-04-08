@@ -20,13 +20,19 @@ The data used originates from the book [Machine Learning with R](https://www.ama
 
 Below are the columns in the dataset:
 
-. Age
-. Sex:  female, male.
-. BMI: Body mass index.
-. Children: Number of children covered by health insurance / Number of dependents.
-. Smoker: If the person smokes or not.
-. Region: Northeast, Southeast, Southwest, Northwest.
-. Charges: Individual medical costs billed by health insurance
+💡 Age
+
+💡 Sex:  female, male.
+
+💡 BMI: Body mass index.
+
+💡 Children: Number of children covered by health insurance / Number of dependents.
+
+💡 Smoker: If the person smokes or not.
+💡 Region: Northeast, Southeast, Southwest, Northwest.
+
+💡 Charges: Individual medical costs billed by health insurance
+
 
 ## Visualization
 
