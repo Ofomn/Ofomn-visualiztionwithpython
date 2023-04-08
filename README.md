@@ -1,3 +1,3 @@
 # DATA VISUALIZATION WITH PYTHON
 ---
-## Creating a histograms 
+## Creating Stacked Chart (Histogram) 
