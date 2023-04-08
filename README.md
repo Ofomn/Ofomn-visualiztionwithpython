@@ -29,6 +29,7 @@ Below are the columns in the dataset:
 💡 Children: Number of children covered by health insurance / Number of dependents.
 
 💡 Smoker: If the person smokes or not.
+
 💡 Region: Northeast, Southeast, Southwest, Northwest.
 
 💡 Charges: Individual medical costs billed by health insurance
