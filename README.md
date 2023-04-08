@@ -30,3 +30,6 @@ The data used originates from the book [Machine Learning with R](https://www.ama
 
 . [Seaborn](https://seaborn.pydata.org/)
 
+## Installation and Usage
+. It is requires that the matplotlib and seaborn modules are installed. These libraries are imported into the module.
+
