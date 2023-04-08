@@ -39,10 +39,11 @@ Below are the columns in the dataset:
 
 ![viz](https://user-images.githubusercontent.com/122539866/230698823-10054ef0-ddb6-4016-934e-c8c6495dc8df.png)
 
+----
 
-## My Code Book
-[Click link to view](https://github.com/Ofomn/Ofomn-visualiztionwithpython/blob/main/DataViz.ipynb)
+## [My Code Book](https://github.com/Ofomn/Ofomn-visualiztionwithpython/blob/main/DataViz.ipynb)
 
+----
 
 ## Technologies Used
 . [Installing Pycaret](https://pycaret.gitbook.io/docs/)
