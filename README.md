@@ -50,3 +50,9 @@ Below are the columns in the dataset:
 ## Installation and Usage
 . It is requires that the matplotlib and seaborn modules are installed. These libraries are imported into the module.
 
+---
+
+&copy; 2023 Ofomnbuk
+
+<!-- markdownlint-enable -->
+
