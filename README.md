@@ -40,6 +40,10 @@ Below are the columns in the dataset:
 ![viz](https://user-images.githubusercontent.com/122539866/230698823-10054ef0-ddb6-4016-934e-c8c6495dc8df.png)
 
 
+## My Code Book
+[Click link to view](http://localhost:8888/notebooks/OneDrive/Documents/Ann%20Python/Pycaret/Untitled.ipynb?kernel_name=python3)
+
+
 ## Technologies Used
 . [Installing Pycaret](https://pycaret.gitbook.io/docs/)
 
