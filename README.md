@@ -41,7 +41,7 @@ Below are the columns in the dataset:
 
 ----
 
-## [My Code Book](https://github.com/Ofomn/Ofomn-visualiztionwithpython/blob/main/DataViz.ipynb)
+## [View My Jupyter Notebook](https://github.com/Ofomn/Ofomn-visualiztionwithpython/blob/main/DataViz.ipynb)
 
 ----
 
