@@ -22,3 +22,9 @@ The data used originates from the book [Machine Learning with R](https://www.ama
 
 ![viz](https://user-images.githubusercontent.com/122539866/230698823-10054ef0-ddb6-4016-934e-c8c6495dc8df.png)
 
+
+## Technologies Used
+. [Installing Pycaret](https://pycaret.gitbook.io/docs/)
+. [matlotlib](https://matplotlib.org/)
+. [Seaborn](https://seaborn.pydata.org/)
+
