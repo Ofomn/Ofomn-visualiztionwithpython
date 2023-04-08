@@ -18,3 +18,7 @@ For  this project, I would be using the built-in `hist()` function from pandas t
 
 The data used originates from the book [Machine Learning with R](https://www.amazon.com/Machine-Learning-R-Brett-Lantz/dp/1782162143/ref=as_li_ss_tl?ie=UTF8&linkCode=ll1&tag=learnds-20&linkId=acc9debcffa9ec9b8dc01374ead56eaf&language=en_US) by Brett Lantz, and it contains health insurance information.
 
+## Visualization
+
+![viz](https://user-images.githubusercontent.com/122539866/230698823-10054ef0-ddb6-4016-934e-c8c6495dc8df.png)
+
