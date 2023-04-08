@@ -41,7 +41,7 @@ Below are the columns in the dataset:
 
 
 ## My Code Book
-[Click link to view](http://localhost:8888/notebooks/OneDrive/Documents/Ann%20Python/Pycaret/Untitled.ipynb?kernel_name=python3)
+[Click link to view](https://github.com/Ofomn/Ofomn-visualiztionwithpython/blob/main/DataViz.ipynb)
 
 
 ## Technologies Used
