@@ -46,14 +46,14 @@ Below are the columns in the dataset:
 ----
 
 ## Technologies Used
-. [Installing Pycaret](https://pycaret.gitbook.io/docs/)
+- [Installing Pycaret](https://pycaret.gitbook.io/docs/)
 
-. [matlotlib](https://matplotlib.org/)
+- [matlotlib](https://matplotlib.org/)
 
-. [Seaborn](https://seaborn.pydata.org/)
+- [Seaborn](https://seaborn.pydata.org/)
 
 ## Installation and Usage
-. It is requires that the matplotlib and seaborn modules are installed. These libraries are imported into the module.
+- It is requires that the matplotlib and seaborn modules are installed. These libraries are imported into the module.
 
 ---
 
