@@ -1,4 +1,4 @@
-# DATA VISUALIZATION WITH PYTHON
+# Creating a Stacked Histogram
 ---
 ## Creating Stacked Chart (Histogram) 
 
