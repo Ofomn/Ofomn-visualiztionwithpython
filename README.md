@@ -1,6 +1,5 @@
 # Creating a Stacked Histogram
 ---
-## Creating Stacked Chart (Histogram) 
 
 
 ### Introduction
