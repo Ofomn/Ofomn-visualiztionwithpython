@@ -40,7 +40,7 @@ Below are the columns in the dataset:
 
 ----
 
-## [View My Jupyter Notebook](https://github.com/Ofomn/Ofomn-visualiztionwithpython/blob/main/DataViz.ipynb)
+## [View My Jupyter Notebook](https://nbviewer.org./github/Ofomn/Stacked-Histogram/blob/f0c4b6ca83b55013f89ab65095202aa4e0899920/DataViz.ipynb)
 
 ----
 
