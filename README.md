@@ -33,6 +33,50 @@ Below are the columns in the dataset:
 
 💡 Charges: Individual medical costs billed by health insurance
 
+----
+
+## Steps:
+
+```bash python
+
+from pycaret.datasets import get_data
+
+data = get_data('insurance')
+
+import matplotlib.pyplot as plt
+import seaborn as sns
+
+```
+
+```bash python
+
+data.info()
+
+```
+
+
+```bash python
+
+sns.set_style('darkgrid')
+colors = ['#851836', '#EDBD17', '#0E1428', '#407076', '#4C5B61']
+sns.set_palette(sns.color_palette(colors))
+
+```
+
+
+
+```bash python
+
+categorical = ['sex', 'children', 'smoker', 'region']
+
+fig, axs = plt.subplots(2, 2, figsize=(20,10))
+
+for variable, ax in zip(categorical, axs.flatten()):
+  sns.histplot(data, x='charges', hue=variable, multiple='stack', ax=ax)
+
+```
+
+
 
 ## Visualization
 
